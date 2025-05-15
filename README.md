@@ -1,12 +1,12 @@
 # Django Real Estate App
 
-## Tech Stack
+## ⚙️ Tech Stack
 
 - Backend: Python, Django
 - Database: PostgreSQL (for local and remote setup)
 - Frontend: HTML, CSS, Javascript, Bootstrap
 
-## Features
+## 🔋 Features
 
 - Property Listings: Displaying details of properties (images, descriptions, prices, features, location).
 - Realtor Management: Managing information about real estate agents (profiles, listings).
